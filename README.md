@@ -51,7 +51,7 @@
 
 ### 🌍 Find Me
 <p align="center">
-  <a href="[www.linkedin.com/in/francisco-flórez-ramírez](https://www.linkedin.com/in/francisco-fl%C3%B3rez-ram%C3%ADrez/)" target="_blank">
+  <a href="https://www.linkedin.com/in/francisco-fl%C3%B3rez-ram%C3%ADrez/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:franciscojflorezr12@gmail.com">
