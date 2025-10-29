@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Francisco Flórez
 
-<!--
-**Frjflorezra/Frjflorezra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Backend & Data Engineer** | I build scalable APIs, automate data workflows, and design data-driven systems.  
+📊 I’m currently working on analytics automation and algorithmic data models.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Tech Stack
+**Languages:** Python · TypeScript · SQL  
+**Backend:** FastAPI · Node.js · NestJS · Express  
+**Data:** PostgreSQL · Pandas · Power BI · ETL pipelines  
+**Cloud/DevOps:** Docker · Azure · GitHub Actions  
+**Other:** ArcGIS API · RESTful APIs · OData · Power Query  
+
+---
+
+### 🧠 Interests
+- Backend optimization and distributed systems  
+- Data modeling and analytics automation  
+- API architecture and cloud deployment  
+
+---
+
+### 🌍 Find me
+[LinkedIn]((https://www.linkedin.com/in/francisco-fl%C3%B3rez-ram%C3%ADrez/)) · [Portfolio](https://yourportfolio.com) · [Email](franciscojflorezr12@gmail.com)
