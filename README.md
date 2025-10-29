@@ -36,7 +36,6 @@
 | 📊 **Public-Space Analytics Dashboard** | Data visualization platform for infrastructure projects in Medellín. | Node.js · Power BI · ArcGIS API |
 | 🧰 **Automated Report Generator** | Scripted pipeline generating periodic performance reports in CSV/PDF. | Python · Pandas · Matplotlib |
 
-> 🖇️ *Pin these (or equivalent) repositories on your profile to highlight your backend & data strengths.*
 
 ---
 
@@ -62,11 +61,6 @@
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github"/>
   </a>
 </p>
-
----
-
-### 🧩 Quote
-> “Data becomes powerful when it drives reliable systems — not just dashboards.”
 
 ---
 
